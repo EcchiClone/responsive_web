@@ -18,10 +18,10 @@ h3, p {
 	margin:0;
 }
 #ms1{
-  background-image:url("../assets/images/bg01.png");
+  background-image:url("./../assets/images/bg01.png");
 }
 #ms2{
-  background-image:url("../assets/images/bg02.png");
+  background-image:url("./../assets/images/bg02.png");
 }
 .bg-holder{
 	width:100%;
